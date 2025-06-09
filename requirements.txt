@@ -1,0 +1,9 @@
+openai
+sentence-transformers
+pdfplumber
+beautifulsoup4
+requests
+qdrant-client
+tqdm
+playwright
+pyyaml
